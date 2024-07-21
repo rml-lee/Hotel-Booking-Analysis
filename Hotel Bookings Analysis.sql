@@ -116,6 +116,8 @@ FROM
         hotel_bookings
     WHERE
         is_canceled = 0) t
+WHERE
+    length_of_stay >= 1
 GROUP BY 1, 2
 ORDER BY 1 ASC, 2 ASC;
 
