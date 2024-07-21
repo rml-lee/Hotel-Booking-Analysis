@@ -105,9 +105,9 @@ GROUP BY 1;
 
 -- 8. What is the total number of bookings for each length of stay for each hotel type?
 SELECT
+    hotel,
     length_of_stay,
-    SUM(IF(hotel = 'Resort Hotel', 1, 0)) AS total_resort,
-    SUM(IF(hotel = 'City Hotel', 1, 0)) AS total_city
+    COUNT(*) AS total_bookings
 FROM
     (SELECT
         hotel,
@@ -116,8 +116,8 @@ FROM
         hotel_bookings
     WHERE
         is_canceled = 0) t
-GROUP BY 1
-ORDER BY 1 ASC;
+GROUP BY 1, 2
+ORDER BY 1 ASC, 2 ASC;
 
 
 
@@ -166,28 +166,3 @@ FROM
          reservation_status NOT IN ('Canceled', 'No-Show')) t
 GROUP BY 1, 2, 3
 ORDER BY 1 ASC, 2 ASC, 3 ASC;
-
-
--- When is the best time of the year to book a hotel?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
