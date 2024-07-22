@@ -53,11 +53,11 @@ ORDER BY 1 ASC, 2 ASC, 3 ASC;
 -- 5. What are the top 10 countries with the most bookings?
 SELECT
     country,
-    total_canceled
+    total_bookings
 FROM
     (SELECT
         country,
-        COUNT(*) AS total_canceled,
+        COUNT(*) AS total_bookings,
         DENSE_RANK() OVER (ORDER BY COUNT(*) DESC) AS rnk
     FROM
         hotel_bookings
@@ -123,20 +123,7 @@ ORDER BY 1 ASC, 2 ASC;
 
 
 
--- 9. How has ADR varied throughout the years for each hotel type?
-SELECT
-    hotel,
-    YEAR(reservation_status_date) AS year,
-    MONTH(reservation_status_date) AS month,
-    ROUND(AVG(adr), 2) AS avg_rate
-FROM
-    hotel_bookings
-GROUP BY 1, 2, 3
-ORDER BY 1 ASC, 2 ASC, 3 ASC;
-
-
-
--- 10. What is the correlation between the monthly average ADR and the amount of bookings between hotels?
+-- 9. What is the correlation between the monthly average ADR and the amount of bookings between hotels? In other words, how does ADR impact booking demand?
 SELECT
     hotel,
     YEAR(reservation_status_date) AS year,
@@ -152,7 +139,7 @@ ORDER BY 1 ASC, 2 ASC, 3 ASC;
 
 
 
--- 11. What is the total monthly revenue received from each hotel?
+-- 10. What is the total monthly revenue received from each hotel?
 SELECT
     hotel,
     YEAR(reservation_status_date) AS year,
