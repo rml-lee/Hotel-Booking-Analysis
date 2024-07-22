@@ -32,4 +32,4 @@ Tableau - [Link](https://public.tableau.com/views/Workbook6_HotelBookingsProject
 
 - Guests at the Resort Hotel tend to stay **1 to 3 nights** as well, but many are also staying for **7 nights**.
 
-- **Recommendations**: Given the unique demand for 7-night stays, consider creating summer promotions, discounts, and packages specifically tailored for these extended stays. This strategy would not only attract guests looking for longer vacations but also help differentiate the resort hotel from competitors, ultimately driving demand and boosting occupancy.
+- **Recommendations**: I'd like to build upon the previous recommendation for the Resort Hotel. Given the unique demand for 7-night stays, consider creating summer promotions, discounts, and packages specifically tailored for these extended stays. This strategy would not only attract guests looking for longer vacations but also help differentiate the resort hotel from competitors, ultimately driving demand and boosting occupancy.
