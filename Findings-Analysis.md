@@ -13,8 +13,8 @@ Tableau - [Link](https://public.tableau.com/views/Workbook6_HotelBookingsProject
 - Peak tourist season for both City and Resort Hotels occur during the **Spring, Summer, and Fall**. 
 - The average daily rate rises during the **Summer** and falls during the **Winter**.
 
-- **City Hotel**: There is a positive correlation between pricing and demand. As the average daily rate increases during the summer, the trajectory of demand remains unaffected. This indicates that the current pricing strategy for City Hotel is effectively meeting demand during peak tourist seasons.
-- **Resort Hotel**: There’s a negative correlation between pricing and demand. When ADR increases during the summer, demand decreases, indicating that the current pricing strategy negatively impacts demand.
+- **City Hotel**: There is a **positive correlation** between pricing and demand. As the average daily rate increases during the summer, the trajectory of demand remains unaffected. This indicates that the current pricing strategy for City Hotel is effectively meeting demand during peak tourist seasons.
+- **Resort Hotel**: There’s a **negative correlation** between pricing and demand. When ADR increases during the summer, demand decreases, indicating that the current pricing strategy negatively impacts demand.
 
 **Recommendations**: Reassess pricing strategy for the Resort Hotel. 
 
@@ -28,8 +28,8 @@ Tableau - [Link](https://public.tableau.com/views/Workbook6_HotelBookingsProject
 
 ![Grouped Bar Chart-2](https://github.com/user-attachments/assets/12d902ce-c852-4efb-b8e3-5d5c3f8bb626)
 
-- Guests for the City Hotel tend to stay **1 to 3 nights** per booking.
+- Guests at the City Hotel tend to stay **1 to 3 nights** per booking.
 
-- Guests for the Resort Hotel tend to stay **1 to 3 nights** as well but many are also staying for **7 nights**.
+- Guests at the Resort Hotel tend to stay **1 to 3 nights** as well, but many are also staying for **7 nights**.
 
 - **Recommendations**: Given the unique demand for 7-night stays, consider creating summer promotions, discounts, and packages specifically tailored for these extended stays. This strategy would not only attract guests looking for longer vacations but also help differentiate the resort hotel from competitors, ultimately driving demand and boosting occupancy.
