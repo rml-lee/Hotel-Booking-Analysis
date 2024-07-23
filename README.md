@@ -69,7 +69,7 @@ You can access the Jupyter Notebook file [here](https://github.com/rml-lee/Hotel
 
 After cleaning the data, this is our schema that will be used throughout this project.
 
-<img src="https://github.com/rml-lee/Hotel-Booking-Analysis/blob/main/hotel%20bookings%20schema.png" alt="Description" width="500"/>
+<img src="https://github.com/rml-lee/Hotel-Booking-Analysis/blob/main/hotel%20bookings%20schema.png" alt="Description" width="400"/>
 
 # Data Transformation
 
