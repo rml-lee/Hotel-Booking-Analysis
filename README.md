@@ -1,9 +1,10 @@
 # Hotel Booking Analysis
 
 # Business Task
-The goal of this project is to gather actionable insights and identify trends from the provided dataset of a fictitious pizza place.
+The goal of this project is to gather actionable insights and identify trends from the provided hotel bookings dataset.
 
-**Domain**: Food Service and Hospitality
+
+**Domain**: Hospitality and Tourism
 
 ## Table of Contents
 - [Data Source](#data-source)
