@@ -14,7 +14,7 @@ The goal of this project is to gather actionable insights and identify trends fr
 - [Findings & Analysis](#findings--analysis)
 
 # Data Source
-
+Hotel Booking Demand Dataset - [Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?resource=download)
 
 # Data Dictionary
 | **Field Name**                      | **Description**                                                                                                                                                                                                                     |
