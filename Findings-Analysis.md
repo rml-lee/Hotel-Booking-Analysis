@@ -7,8 +7,6 @@ Tableau - [Link](https://public.tableau.com/views/Workbook6_HotelBookingsProject
 
 ![Dual Combination Chart](https://github.com/user-attachments/assets/8e560a96-3429-4083-8c54-0a9a3998f49b)
 
-**Note**: There are no bookings on record within this dataset until July 2015.
-
 - Overall booking demand for the City Hotel is **significantly higher** than the Resort Hotel.
 - Peak tourist season for both City and Resort Hotels occur during the **Spring, Summer, and Fall**. 
 - The average daily rate rises during the **Summer** and falls during the **Winter**.
