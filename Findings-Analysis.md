@@ -1,6 +1,8 @@
-# Findings & Analysis
+<h1 align="center">Findings & Analysis</h1>
 
-**Note**: Click the Tableau link above each chart to view a detailed, interactive version.
+
+
+<p align="center">Note: Click the Tableau link above a chart to view a detailed, interactive version.</p> 
 
 ## 9. What is the correlation between the monthly average ADR and the amount of bookings between hotels? In other words, how does ADR impact booking demand?
 
