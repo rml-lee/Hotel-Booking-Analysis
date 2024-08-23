@@ -10,14 +10,13 @@ Tableau - [Link](https://public.tableau.com/views/Workbook6_HotelBookingsProject
 
 ![Dual Combination Chart](https://github.com/user-attachments/assets/8e560a96-3429-4083-8c54-0a9a3998f49b)
 
-- Overall booking demand for the City Hotel is **significantly higher** than the Resort Hotel.
 - Peak tourist season for both City and Resort Hotels occur during the **Spring, Summer, and Fall**. 
 - The average daily rate rises during the **Summer** and falls during the **Winter**.
 
 - **City Hotel**: There is a **positive correlation** between pricing and demand. As the average daily rate increases during the summer, the trajectory of demand remains unaffected. This indicates that the current pricing strategy for City Hotel is effectively meeting demand during peak tourist seasons.
 - **Resort Hotel**: There’s a **negative correlation** between pricing and demand. When ADR increases during the summer, demand decreases, indicating that the current pricing strategy negatively impacts demand.
 
-**Recommendations**: Reassess pricing strategy for the Resort Hotel. 
+**Recommendations**: Overall booking demand for the City Hotel is **significantly higher** than the Resort Hotel. Reassess pricing strategy for the Resort Hotel. 
 
 - Consider lowering the daily rate during the summer. 
 
