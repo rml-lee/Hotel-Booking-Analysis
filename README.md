@@ -7,12 +7,12 @@ The goal of this project is to gather actionable insights and identify trends fr
 **Domain**: Hospitality and Tourism
 
 ## Table of Contents
-- [Data Source](#data-source)
-- [Data Dictionary](#data-dictionary)
-- [Data Cleaning & Exploration](#data-cleaning--Exploration)
-- [Data Schema](#data-schema)
-- [Data Transformation](#data-transformation)
-- [Findings & Analysis](#findings--analysis)
+- [**Data Source**](#data-source)
+- [**Data Dictionary**](#data-dictionary)
+- [**Data Cleaning & Exploration**](#data-cleaning--Exploration)
+- [**Data Schema**](#data-schema)
+- [**Data Transformation**](#data-transformation)
+- [**Findings & Analysis**](#findings--analysis)
 
 # Data Source
 Hotel Booking Demand Dataset - [Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?resource=download)
