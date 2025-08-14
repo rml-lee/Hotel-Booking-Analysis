@@ -28,6 +28,8 @@ Tableau - [Link](https://public.tableau.com/views/Workbook6_HotelBookingsProject
 
   - Offer and market summer promotions, discounts, or packages that include additional services like dining, spa treatments, or local tours to attract guests.
 
+---
+
 ## 8. What is the total number of bookings for each length of stay for each hotel type?
 
 Tableau - [Link](https://public.tableau.com/views/Workbook6_HotelBookingsProject/GroupedBarChart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
