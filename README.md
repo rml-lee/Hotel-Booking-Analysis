@@ -4,7 +4,7 @@
 This analysis will gather actionable insights and identify trends from the provided hotel bookings dataset, taking a deeper dive into booking patterns and seasonal demand drivers. The goal is to pinpoint key factors influencing profitability by examining the impact of Average Daily Rate (ADR) on demand and length of stay. This will enable data-driven strategies to optimize pricing and inventory management for improved occupancy and financial performance.
 
 
-## Table of Contents
+# Table of Contents
 - [**Data Source**](#data-source)
 - [**Data Dictionary**](#data-dictionary)
 - [**Data Cleaning & Exploration**](#data-cleaning--Exploration)
